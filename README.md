@@ -14,6 +14,6 @@ Fitur Utama
 Teknologi yang Digunakan
 - HTML5: Struktur dasar halaman web.
 - CSS: Untuk styling dan tema merah putih.
-- JavaScript: Interaktivitas tambahan jika diperlukan.
+- JavaScript
 
 
